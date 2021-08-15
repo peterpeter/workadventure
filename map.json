@@ -128,6 +128,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.masterhomepage.ch"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Das ist einem Custom-Message!"
                 }],
          "type":"tilelayer",
          "visible":true,
