@@ -130,6 +130,11 @@
                  "value":"https:\/\/www.joomla.ch"
                 }, 
                 {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"Das ist einem Custom-Message!"
