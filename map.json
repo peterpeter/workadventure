@@ -173,7 +173,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Eigener Text\nDas ist einem Custom-Message, bevor eine Webseite ge\u00f6ffnet wird\nLeider ohne Formatierungsm\u00f6glichkeit.\n(Weiter mit Klick oder Leertaste)"
+                 "value":"Das ist eigener Text \/ eine Custom-Message, bevor eine Webseite ge\u00f6ffnet wird\nLeider ohne Formatierungsm\u00f6glichkeit.\n(Weiter mit Klick oder Leertaste)"
                 }],
          "type":"tilelayer",
          "visible":true,
