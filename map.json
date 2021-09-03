@@ -253,6 +253,11 @@
                          "value":"https:\/\/regularlabs.com"
                         }, 
                         {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
                          "value":"Webseite des Sponsors \u00f6ffnen: Klick oder Leertaste"
@@ -274,6 +279,11 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/backupmonkey.io\/de\/"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }, 
                         {
                          "name":"openWebsiteTriggerMessage",
