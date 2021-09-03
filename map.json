@@ -253,9 +253,9 @@
                          "value":"https:\/\/regularlabs.com"
                         }, 
                         {
-                         "name":"openWebsiteTrigger",
+                         "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"onaction"
+                         "value":"Webseite des Sponsors \u00f6ffnen: Klick oder Leertaste"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -276,9 +276,9 @@
                          "value":"https:\/\/backupmonkey.io\/de\/"
                         }, 
                         {
-                         "name":"openWebsiteTrigger",
+                         "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"onaction"
+                         "value":"Webseite des Sponsors \u00f6ffnen: Klick oder Leertaste"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -297,11 +297,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/dach.joomladay.online\/index.php?option=com_content&view=article&id=39&tmpl=component"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
                         }],
                  "type":"tilelayer",
                  "visible":true,
