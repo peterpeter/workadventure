@@ -87,11 +87,6 @@
                                  "name":"openWebsite",
                                  "type":"string",
                                  "value":"https:\/\/regularlabs.com"
-                                }, 
-                                {
-                                 "name":"openWebsiteTrigger",
-                                 "type":"string",
-                                 "value":"onaction"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
