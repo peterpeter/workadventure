@@ -22,7 +22,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":60,
          "x":0,
          "y":0
@@ -42,7 +42,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":60,
          "x":0,
          "y":0
@@ -66,7 +66,7 @@
                                  "value":"https:\/\/backupmonkey.io\/de\/"
                                 }],
                          "type":"tilelayer",
-                         "visible":false,
+                         "visible":true,
                          "width":60,
                          "x":0,
                          "y":0
@@ -327,7 +327,7 @@
          "name":"Sofa_jitsi_layers",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -352,7 +352,7 @@
                          "value":"speaker"
                         }],
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":60,
                  "x":0,
                  "y":0
@@ -380,7 +380,7 @@
                          "value":"speaker"
                         }],
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":60,
                  "x":0,
                  "y":0
@@ -408,7 +408,7 @@
                          "value":"speaker"
                         }],
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":60,
                  "x":0,
                  "y":0
@@ -436,7 +436,7 @@
                          "value":"speaker"
                         }],
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":60,
                  "x":0,
                  "y":0
@@ -467,7 +467,7 @@
                                  "value":"sponsor_1_2"
                                 }],
                          "type":"tilelayer",
-                         "visible":false,
+                         "visible":true,
                          "width":60,
                          "x":0,
                          "y":0
@@ -495,7 +495,7 @@
                                  "value":"sponsor_1_1"
                                 }],
                          "type":"tilelayer",
-                         "visible":false,
+                         "visible":true,
                          "width":60,
                          "x":0,
                          "y":0
@@ -525,7 +525,7 @@
                                  "value":"sponsor_1_3"
                                 }],
                          "type":"tilelayer",
-                         "visible":false,
+                         "visible":true,
                          "width":60,
                          "x":0,
                          "y":0
@@ -533,14 +533,14 @@
                  "name":"Sponsoren",
                  "opacity":1,
                  "type":"group",
-                 "visible":false,
+                 "visible":true,
                  "x":0,
                  "y":0
                 }],
          "name":"Rooms_jitsi_layers",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -551,7 +551,7 @@
          "name":"bottom_base",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":60,
          "x":0,
          "y":0
@@ -563,7 +563,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":60,
          "x":0,
          "y":0
@@ -575,7 +575,7 @@
          "name":"room_labels",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":60,
          "x":0,
          "y":0
