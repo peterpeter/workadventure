@@ -88,6 +88,11 @@
                                  "name":"openTab",
                                  "type":"string",
                                  "value":"https:\/\/www.ionos.de"
+                                }, 
+                                {
+                                 "name":"openWebsite",
+                                 "type":"string",
+                                 "value":"https:\/\/www.ionos.de"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
