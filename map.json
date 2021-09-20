@@ -419,7 +419,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"https:\/\/youtu.be\/ccLg_fjBIAc"
+                                 "value":"https:\/\/www.youtube.com\/embed\/ccLg_fjBIAc"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
