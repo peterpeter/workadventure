@@ -223,7 +223,7 @@
                                 {
                                  "name":"openTab",
                                  "type":"string",
-                                 "value":"https:\/\/www.ionos.de"
+                                 "value":"https:\/\/www.ionos.de\/agentur-partner"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
